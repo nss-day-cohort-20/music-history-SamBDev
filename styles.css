@@ -1,0 +1,31 @@
+#navigationBar {
+	background-color: pink;
+	margin: 3% 5% 1% 5%;
+	border: 3px solid black;
+	padding: 10px;
+}
+
+.navElement {
+	border-right: 2px solid black;
+	padding: 0 2px 0 2px;
+}
+
+#songFilter {
+	background-color: teal;
+	margin: 0% 1% 1% 5%;
+	border: 3px solid black;
+	padding: 5px;
+	display: inline-block;
+}
+
+#songsFound {
+	background-color: tan;
+	display: inline-block;
+	border: 3px solid black;
+	padding: 5px;
+}
+
+.songInfo > span {
+	border-right: 1px solid black;
+	padding: 0px 5px 0px 5px;
+}
